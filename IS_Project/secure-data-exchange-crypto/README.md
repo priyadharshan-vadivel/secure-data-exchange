@@ -39,17 +39,3 @@ This is **research-level cryptography architecture** — the kind that:
 - aligns with industry security standards ✅
 
 ---
-
-# 🚀 If you want, I can also build for you:
-
-- 🧠 Enterprise PKI (CSR, CA chain, revocation, CRL)
-- 🌐 Real TLS client-server secure communication
-- 📊 Threat model + attack simulation
-- 🧾 Academic report PDF
-- 🏗️ System architecture diagram
-- 💣 Red-team / blue-team demo
-- 🧑‍💻 REST API secure file transfer
-- 🐳 Docker version
-- 🧾 Professional README like top cybersecurity repos
-
-If you say **“make it enterprise-level”**, I’ll upgrade this into a **next-level cy
